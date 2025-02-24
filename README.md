@@ -33,7 +33,7 @@ AnkiBot is a tool that automatically generates Anki flashcards for German vocabu
    ```
 
 3. Set up your OpenAI API key:
-   - Copy `.env.example` to `.env` and add your API key
+   - Create an `.env` and add your API key `OPENAI_API_KEY=your_api_key_here`
    - Or set it as an environment variable: `export OPENAI_API_KEY=your_api_key_here`
 
 ## Usage
