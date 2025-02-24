@@ -106,11 +106,10 @@ All of this information is assembled into Anki flashcards with optimized templat
 
 This tool uses the OpenAI API, which charges based on usage:
 
-- GPT-4o for generating sentences and translations (~$0.005-0.01 per word)
-- TTS-1 for audio generation (~$0.0015 per word)
+- GPT-4o for generating sentences and translations
+- TTS-1 for audio generation
 
-A 50-word deck might cost approximately $0.25-0.50 to generate.
-
+A 50-word deck costs approximately $0.05-0.010 to generate as of 24.02.2025.
 ## License
 
 [MIT License](LICENSE)
